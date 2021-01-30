@@ -8,4 +8,9 @@
 tableName=Music
 # プライマリキーを指定
 pKeys=Artist,SongTitle
+# region
+region=ap-northeast-1
+# localIp(ローカル以外で動かす場合はコメントアウト)
+localIp=http://localhost:8000
+
 ```
